@@ -4,8 +4,6 @@ import subprocess
 import os
 import argparse
 
-#HELLO
-
 if __name__ == '__main__':
   parser = argparse.ArgumentParser(description="""nominatree.py - For a phylogenetic tree 
   that has only sequence access codes, this program 
